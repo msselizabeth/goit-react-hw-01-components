@@ -15,11 +15,12 @@
     box-shadow: 1px 1px 4px rgb(147, 156, 164);
 }
 .thead {
-    height: 60px;
+    
         background-color: rgb(62, 196, 190);
         color: white;
 }
 .th{
+    height: 60px;
     text-transform: uppercase;
     border-right: 1px solid rgb(245, 245, 245);
 }
